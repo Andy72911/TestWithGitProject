@@ -50,6 +50,9 @@ git reset --hard [目標還原點的ID]
 // 避免與主線分支混在一起，另外建立一條新的分支，並切換至新分支
 git checkout -b [新分支名稱]
 
+// 將本地端的變更推送到GitHub
+git push origin [自己所在的分支名稱]
+
 # Tips
 // HEAD:當前最新的存檔點，master:當前位於主線分支上
 
