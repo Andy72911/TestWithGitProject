@@ -1,7 +1,7 @@
 # 規格
 處理器：Intel Core i5-12400F
 主機板晶片組：Intel B760
-記憶體：16GB DDR4  = (16G x 1條)
+記憶體：32GB DDR4  = (16G x 1條)
 (Long-DIMM(U-DIMM) 記憶體支援容量 : 總插槽數量 2 / 最高容量32G)
 注意:記憶體速度時脈頻率,根據處理器設定而降低。
 硬碟：1TB M.2 PCIe SSD 
